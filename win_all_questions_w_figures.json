@@ -1,0 +1,2719 @@
+[
+  {
+    "number": 1,
+    "stem": "When you approach a bus that is about to move off from a bus stop you should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image9.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Get past before it moves"
+      ],
+      [
+        "B",
+        "Signal left and wave the bus on"
+      ],
+      [
+        "C",
+        "Allow it to pull away, if it is safe to do so"
+      ],
+      [
+        "D",
+        "Flash your headlights as you approach"
+      ]
+    ]
+  },
+  {
+    "number": 2,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image13.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Roundabout"
+      ],
+      [
+        "B",
+        "No entry"
+      ],
+      [
+        "C",
+        "No stopping"
+      ],
+      [
+        "D",
+        "Crossroads"
+      ]
+    ]
+  },
+  {
+    "number": 3,
+    "stem": "A red traffic light means:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image15.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "You must stop behind the white stop line"
+      ],
+      [
+        "B",
+        "You may drive straight on if there is no other traffic"
+      ],
+      [
+        "C",
+        "You must slow down and prepare to stop"
+      ],
+      [
+        "D",
+        "You may turn left if it is safe to do so"
+      ]
+    ]
+  },
+  {
+    "number": 4,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image17.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Side winds Quayside or river bank"
+      ],
+      [
+        "B",
+        "Falling or fallen rocks"
+      ],
+      [
+        "C",
+        "Cliff face ahead"
+      ]
+    ]
+  },
+  {
+    "number": 5,
+    "stem": "You are approaching this roundabout and see the cyclist signal right. Why is the cyclist keeping to the left?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image25.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "It is quicker route for cyclist"
+      ],
+      [
+        "B",
+        "The cyclist is going to turn left instead"
+      ],
+      [
+        "C",
+        "The cyclist is slower and more vulnerable"
+      ],
+      [
+        "D",
+        "The cyclist thinks the highway Code does not apply to bicycles"
+      ]
+    ]
+  },
+  {
+    "number": 6,
+    "stem": "The driver of this car is giving an arm signal. What is he about to do?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image28.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Go straight ahead"
+      ],
+      [
+        "B",
+        "Turn to the left"
+      ],
+      [
+        "C",
+        "Let pedestrians cross"
+      ],
+      [
+        "D",
+        "Turn to the right"
+      ]
+    ]
+  },
+  {
+    "number": 7,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image55.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Toll bridge ahead"
+      ],
+      [
+        "B",
+        "Opening or swing bridge ahead"
+      ],
+      [
+        "C",
+        "Road ahead closed"
+      ],
+      [
+        "D",
+        "Humpback bridge ahead"
+      ]
+    ]
+  },
+  {
+    "number": 8,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image65.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "No motor vehicles"
+      ],
+      [
+        "B",
+        "You have priority"
+      ],
+      [
+        "C",
+        "No overtaking"
+      ],
+      [
+        "D",
+        "Two-way traffic"
+      ]
+    ]
+  },
+  {
+    "number": 9,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image68.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Humps in the road"
+      ],
+      [
+        "B",
+        "Humpback bridge"
+      ],
+      [
+        "C",
+        "Entrance to tunnel"
+      ],
+      [
+        "D",
+        "Soft verges"
+      ]
+    ]
+  },
+  {
+    "number": 10,
+    "stem": "You are approaching a right-hand bend. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image75.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Keep well to the left for a better view around the bend"
+      ],
+      [
+        "B",
+        "Keep well to the left as it makes the bend faster"
+      ],
+      [
+        "C",
+        "Keep well to the right to avoid anything in the gutter"
+      ],
+      [
+        "D",
+        "Keep well to the right to make the bend less sharp"
+      ]
+    ]
+  },
+  {
+    "number": 11,
+    "stem": "This marking appears on the road just before a",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image81.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "No entry sign"
+      ],
+      [
+        "B",
+        "No through road sign"
+      ],
+      [
+        "C",
+        "Give way sign"
+      ],
+      [
+        "D",
+        "Stop sign"
+      ]
+    ]
+  },
+  {
+    "number": 12,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image85.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Crossroads"
+      ],
+      [
+        "B",
+        "Level crossing without gate"
+      ],
+      [
+        "C",
+        "Ahead only"
+      ],
+      [
+        "D",
+        "Level crossing with gate"
+      ]
+    ]
+  },
+  {
+    "number": 13,
+    "stem": "You are driving in fog. Why should you keep well back from the vehicle in front?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image97.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "In case it stops suddenly"
+      ],
+      [
+        "B",
+        "In case its brake lights dazzle you"
+      ],
+      [
+        "C",
+        "In case its fog lights dazzle you"
+      ],
+      [
+        "D",
+        "In case it changes direction suddenly"
+      ]
+    ]
+  },
+  {
+    "number": 14,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image98.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "No through road"
+      ],
+      [
+        "B",
+        "Telephone box ahead"
+      ],
+      [
+        "C",
+        "T-junction"
+      ],
+      [
+        "D",
+        "Toilet ahead"
+      ]
+    ]
+  },
+  {
+    "number": 15,
+    "stem": "What do these road markings mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image107.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "No stopping or parking permitted."
+      ],
+      [
+        "B",
+        "Central limit of dual carriageway and may be crossed only when overtaking."
+      ],
+      [
+        "C",
+        "Lines on the road just to mark the lanes and guide traffic flows, which have no legal or safety implications."
+      ],
+      [
+        "D",
+        "Continuous solid double white line (Centre line) which vehicles must not drive over, across or astride except to enter a side road, unless prohibited from doing so by appropriate signage."
+      ]
+    ]
+  },
+  {
+    "number": 16,
+    "stem": "You enter a road where there are road humps. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image113.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Always keep to the maximum legal speed"
+      ],
+      [
+        "B",
+        "Accelerate quickly between each one"
+      ],
+      [
+        "C",
+        "Drive slowly at school times only"
+      ],
+      [
+        "D",
+        "Maintain a reduced speed throughout"
+      ]
+    ]
+  },
+  {
+    "number": 17,
+    "stem": "At traffic lights, amber on its own means:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image117.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Go if the way is clear"
+      ],
+      [
+        "B",
+        "Go if no pedestrians are crossing"
+      ],
+      [
+        "C",
+        "Prepare to go"
+      ],
+      [
+        "D",
+        "Stop at the stop line"
+      ]
+    ]
+  },
+  {
+    "number": 18,
+    "stem": "You meet an obstruction on your side of the road. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image118.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Give way to oncoming traffic"
+      ],
+      [
+        "B",
+        "Wave oncoming vehicles through"
+      ],
+      [
+        "C",
+        "Drive on; it is your right of way"
+      ],
+      [
+        "D",
+        "Accelerate to get past first"
+      ]
+    ]
+  },
+  {
+    "number": 19,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image121.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "No vehicles over 30 tonnes"
+      ],
+      [
+        "B",
+        "End of 30 kph zone"
+      ],
+      [
+        "C",
+        "New speed limit 20 kph"
+      ],
+      [
+        "D",
+        "Minimum speed limit 30kph"
+      ]
+    ]
+  },
+  {
+    "number": 20,
+    "stem": "You are approaching a small roundabout. The long vehicle in front is signaling left but is positioned over to the right. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image144.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Sound your horn"
+      ],
+      [
+        "B",
+        "Keep well back"
+      ],
+      [
+        "C",
+        "Overtake on the left"
+      ],
+      [
+        "D",
+        "Follow the same course as the lorry"
+      ]
+    ]
+  },
+  {
+    "number": 21,
+    "stem": "What is the meaning of this traffic sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image153.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Bus lane ahead"
+      ],
+      [
+        "B",
+        "End of two-way road"
+      ],
+      [
+        "C",
+        "Give priority to vehicles coming towards you"
+      ],
+      [
+        "D",
+        "You have priority over vehicles coming towards you"
+      ]
+    ]
+  },
+  {
+    "number": 22,
+    "stem": "You are approaching traffic lights. Red and amber are showing. This means:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image155.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Pass the lights if the road is clear"
+      ],
+      [
+        "B",
+        "There is a fault with the lights \u2013 take care"
+      ],
+      [
+        "C",
+        "The lights are about are about to change to red"
+      ],
+      [
+        "D",
+        "Wait for the green light before you pass the lights"
+      ]
+    ]
+  },
+  {
+    "number": 23,
+    "stem": "You are following a large lorry on a wet road. Spray makes it difficult to see. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image158.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Drop back until you can see better"
+      ],
+      [
+        "B",
+        "Speed up and overtake quickly"
+      ],
+      [
+        "C",
+        "Put your headlights on full beam"
+      ],
+      [
+        "D",
+        "Keep close to the lorry, away from the spray"
+      ]
+    ]
+  },
+  {
+    "number": 24,
+    "stem": "What does the sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image159.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "No pedestrians allowed"
+      ],
+      [
+        "B",
+        "Pedestrian crossing ahead"
+      ],
+      [
+        "C",
+        "School crossing patrol"
+      ],
+      [
+        "D",
+        "Pedestrian zone \u2013 no vehicles"
+      ]
+    ]
+  },
+  {
+    "number": 25,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image165.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Approaching traffic passes you on both sides"
+      ],
+      [
+        "B",
+        "Pass either side to get to the same destination"
+      ],
+      [
+        "C",
+        "Turn off at the next available junction"
+      ],
+      [
+        "D",
+        "Give way to oncoming vehicles"
+      ]
+    ]
+  },
+  {
+    "number": 26,
+    "stem": "You are approaching a small roundabout. The long vehicle in front is signaling left but is positioned over to the right. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image182.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Keep well back"
+      ],
+      [
+        "B",
+        "Sound your horn"
+      ],
+      [
+        "C",
+        "Overtake on the left"
+      ],
+      [
+        "D",
+        "Follow the same course as the lorry"
+      ]
+    ]
+  },
+  {
+    "number": 27,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image194.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Turn left for ferry terminal"
+      ],
+      [
+        "B",
+        "No through road on the left"
+      ],
+      [
+        "C",
+        "No entry for traffic turning left"
+      ],
+      [
+        "D",
+        "Turn left for parking area"
+      ]
+    ]
+  },
+  {
+    "number": 28,
+    "stem": "Who has priority at an unmarked crossroads?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image219.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "The driver who is going faster"
+      ],
+      [
+        "B",
+        "The driver on the wider road"
+      ],
+      [
+        "C",
+        "No one"
+      ],
+      [
+        "D",
+        "The driver of the larger vehicle"
+      ]
+    ]
+  },
+  {
+    "number": 29,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image223.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "No footpath ahead"
+      ],
+      [
+        "B",
+        "Pedestrian crossing ahead"
+      ],
+      [
+        "C",
+        "School crossing ahead"
+      ],
+      [
+        "D",
+        "Pedestrians only ahead"
+      ]
+    ]
+  },
+  {
+    "number": 30,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image224.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Trams only"
+      ],
+      [
+        "B",
+        "Level crossing without barrier or gate"
+      ],
+      [
+        "C",
+        "Level crossing with barrier or gate"
+      ],
+      [
+        "D",
+        "Trams crossing ahead"
+      ]
+    ]
+  },
+  {
+    "number": 31,
+    "stem": "When you approach a bus that is about to move off from a bus stop you should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image227.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Allow it to pull away, if it is safe to do so"
+      ],
+      [
+        "B",
+        "Get past before it moves"
+      ],
+      [
+        "C",
+        "Flash your headlights as you approach"
+      ],
+      [
+        "D",
+        "Signal left and wave the bus on"
+      ]
+    ]
+  },
+  {
+    "number": 32,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image235.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Ring road"
+      ],
+      [
+        "B",
+        "Mini-roundabout"
+      ],
+      [
+        "C",
+        "No vehicles"
+      ],
+      [
+        "D",
+        "Roundabout"
+      ]
+    ]
+  },
+  {
+    "number": 33,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image237.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Traffic queues likely"
+      ],
+      [
+        "B",
+        "Pedestrian crossing ahead"
+      ],
+      [
+        "C",
+        "Light signals ahead at a level crossing"
+      ],
+      [
+        "D",
+        "Accident black spot ahead"
+      ]
+    ]
+  },
+  {
+    "number": 34,
+    "stem": "What do these zigzag lines at pedestrian crossings mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image239.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "No parking at any time"
+      ],
+      [
+        "B",
+        "Parking allowed only for a short time"
+      ],
+      [
+        "C",
+        "Sounding horns is not allowed"
+      ],
+      [
+        "D",
+        "Slow down to 20kph"
+      ]
+    ]
+  },
+  {
+    "number": 35,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image240.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Holiday route ahead"
+      ],
+      [
+        "B",
+        "Low bridge ahead"
+      ],
+      [
+        "C",
+        "Tunnel ahead"
+      ],
+      [
+        "D",
+        "Tourist route ahead"
+      ]
+    ]
+  },
+  {
+    "number": 36,
+    "stem": "When must you stop at this junction?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image266.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Only when the area is busy"
+      ],
+      [
+        "B",
+        "At all times"
+      ],
+      [
+        "C",
+        "During rush hours only"
+      ],
+      [
+        "D",
+        "When turning right only"
+      ]
+    ]
+  },
+  {
+    "number": 37,
+    "stem": "You see this line across the road at the entrance to a roundabout. What does it mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image276.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Traffic from the left has right of way"
+      ],
+      [
+        "B",
+        "You have right of way"
+      ],
+      [
+        "C",
+        "Give way to traffic from the right"
+      ],
+      [
+        "D",
+        "Stop at the line"
+      ]
+    ]
+  },
+  {
+    "number": 38,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image297.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "End of narrow bridge"
+      ],
+      [
+        "B",
+        "Road narrows"
+      ],
+      [
+        "C",
+        "End of dual carriageway"
+      ],
+      [
+        "D",
+        "Tall bridge"
+      ]
+    ]
+  },
+  {
+    "number": 39,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image308.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Ancient monument ahead"
+      ],
+      [
+        "B",
+        "Tunnel ahead"
+      ],
+      [
+        "C",
+        "Low bridge ahead"
+      ],
+      [
+        "D",
+        "Accident black spot ahead"
+      ]
+    ]
+  },
+  {
+    "number": 40,
+    "stem": "This marking appears on the road just before a",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image322.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "No through road sign"
+      ],
+      [
+        "B",
+        "Stop sign"
+      ],
+      [
+        "C",
+        "Give way sign"
+      ],
+      [
+        "D",
+        "No entry sign"
+      ]
+    ]
+  },
+  {
+    "number": 41,
+    "stem": "What do these solid double white centre line road markings mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image329.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Lines on the road just to mark the lanes and guide traffic flows, which have no legal or safety implications."
+      ],
+      [
+        "B",
+        "Continuous solid double white line (Centre line) which vehicles must not drive over, across or astride except to enter a side road, unless prohibited from doing so by appropriate signage."
+      ],
+      [
+        "C",
+        "Central limit of dual carriageway and may be crossed only when overtaking."
+      ],
+      [
+        "D",
+        "No stopping or parking permitted."
+      ]
+    ]
+  },
+  {
+    "number": 42,
+    "stem": "You see this sign ahead of you. It means:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image332.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Start to slow down to 30 kph after passing it"
+      ],
+      [
+        "B",
+        "You are leaving the 30 kph speed limit area"
+      ],
+      [
+        "C",
+        "The minimum speed limit ahead is 30 kph"
+      ],
+      [
+        "D",
+        "Do not exceed 30 kph after passing it"
+      ]
+    ]
+  },
+  {
+    "number": 43,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image347.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Crossroads"
+      ],
+      [
+        "B",
+        "Roundabout"
+      ],
+      [
+        "C",
+        "No entry"
+      ],
+      [
+        "D",
+        "No stopping"
+      ]
+    ]
+  },
+  {
+    "number": 44,
+    "stem": "You are at a junction controlled by traffic lights. When should you NOT proceed at green?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image356.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "When your exit from the junction is blocked"
+      ],
+      [
+        "B",
+        "When pedestrians are waiting to cross"
+      ],
+      [
+        "C",
+        "When you think the lights may be about to change"
+      ],
+      [
+        "D",
+        "When you intend to turn right"
+      ]
+    ]
+  },
+  {
+    "number": 45,
+    "stem": "You are following a large lorry on a wet road. Spray makes it difficult to see. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image366.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Put your headlights on full beam"
+      ],
+      [
+        "B",
+        "Drop back until you can see better"
+      ],
+      [
+        "C",
+        "Keep close to the lorry, away from the spray"
+      ],
+      [
+        "D",
+        "Speed up and overtake quickly"
+      ]
+    ]
+  },
+  {
+    "number": 46,
+    "stem": "You are approaching a right-hand bend. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image377.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Keep well to the right to avoid anything in the gutter"
+      ],
+      [
+        "B",
+        "Keep well to the left as it makes the bend faster"
+      ],
+      [
+        "C",
+        "Keep well to the left for a better view around the bend"
+      ],
+      [
+        "D",
+        "Keep well to the right to make the bend less sharp"
+      ]
+    ]
+  },
+  {
+    "number": 47,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image379.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Humpback bridge ahead"
+      ],
+      [
+        "B",
+        "Toll bridge ahead"
+      ],
+      [
+        "C",
+        "Road ahead closed"
+      ],
+      [
+        "D",
+        "Opening or swing bridge ahead"
+      ]
+    ]
+  },
+  {
+    "number": 48,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image381.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Minimum speed 20 mph"
+      ],
+      [
+        "B",
+        "Entry into a 20 mph zone"
+      ],
+      [
+        "C",
+        "End of a 20 mph zone"
+      ]
+    ]
+  },
+  {
+    "number": 49,
+    "stem": "You may only enter a box junction when:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image382.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "There are less than two vehicles in front of you"
+      ],
+      [
+        "B",
+        "The traffic lights show green"
+      ],
+      [
+        "C",
+        "You need to turn left"
+      ],
+      [
+        "D",
+        "Your exit road is clear"
+      ]
+    ]
+  },
+  {
+    "number": 50,
+    "stem": "You are driving on a multi-lane carriageway. By mistake, you go past the exit that you wanted to take. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image394.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Carefully reverse on the hard shoulder"
+      ],
+      [
+        "B",
+        "Carefully reverse in the left-hand lane"
+      ],
+      [
+        "C",
+        "Carry on to the next exit"
+      ],
+      [
+        "D",
+        "Make a U-turn at the next gap in the central reservation"
+      ]
+    ]
+  },
+  {
+    "number": 51,
+    "stem": "You are driving in fog. Why should you keep well back from the vehicle in front?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image395.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "In case its brake lights dazzle you"
+      ],
+      [
+        "B",
+        "In case its fog lights dazzle you"
+      ],
+      [
+        "C",
+        "In case it changes direction suddenly"
+      ],
+      [
+        "D",
+        "In case it stops suddenly"
+      ]
+    ]
+  },
+  {
+    "number": 52,
+    "stem": "What does a sign with a brown background show?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image399.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Minor routes"
+      ],
+      [
+        "B",
+        "Tourist directions"
+      ],
+      [
+        "C",
+        "Primary roads"
+      ],
+      [
+        "D",
+        "Motorway routes"
+      ]
+    ]
+  },
+  {
+    "number": 53,
+    "stem": "You see this sign ahead. You should expect the road to:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image403.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Bend sharply to the right"
+      ],
+      [
+        "B",
+        "Bend sharply to the left"
+      ],
+      [
+        "C",
+        "Go steeply downhill"
+      ],
+      [
+        "D",
+        "Go steeply downhill"
+      ]
+    ]
+  },
+  {
+    "number": 54,
+    "stem": "The driver of the car in front is giving this signal. What does it mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image410.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "The drivers intends to turn left"
+      ],
+      [
+        "B",
+        "The driver is slowing down"
+      ],
+      [
+        "C",
+        "The driver intends to turn right"
+      ],
+      [
+        "D",
+        "The driver wishes to overtake"
+      ]
+    ]
+  },
+  {
+    "number": 55,
+    "stem": "You see this sign ahead. It means:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image413.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Waiting restrictions apply"
+      ],
+      [
+        "B",
+        "No stopping"
+      ],
+      [
+        "C",
+        "No entry"
+      ],
+      [
+        "D",
+        "National speed limit applies"
+      ]
+    ]
+  },
+  {
+    "number": 56,
+    "stem": "You are driving behind a long vehicle. It approaches a crossroads and signals left, but moves out to the right. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image415.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Assume the signal is wrong and it is really turning right"
+      ],
+      [
+        "B",
+        "Overtake as it starts to slow down"
+      ],
+      [
+        "C",
+        "Get closer in order to pass it quickly"
+      ],
+      [
+        "D",
+        "Stay well back and give it room"
+      ]
+    ]
+  },
+  {
+    "number": 57,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image423.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Two-way traffic ahead"
+      ],
+      [
+        "B",
+        "You have priority over vehicles from the opposite direction"
+      ],
+      [
+        "C",
+        "No overtaking"
+      ],
+      [
+        "D",
+        "You are entering a one way street"
+      ]
+    ]
+  },
+  {
+    "number": 58,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image430.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Two-way traffic"
+      ],
+      [
+        "B",
+        "You have priority"
+      ],
+      [
+        "C",
+        "No overtaking"
+      ],
+      [
+        "D",
+        "No motor vehicles"
+      ]
+    ]
+  },
+  {
+    "number": 59,
+    "stem": "What does this sign means?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image439.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Turn left ahead"
+      ],
+      [
+        "B",
+        "Give way"
+      ],
+      [
+        "C",
+        "T-junction"
+      ],
+      [
+        "D",
+        "No through road"
+      ]
+    ]
+  },
+  {
+    "number": 60,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image443.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Keep in one lane"
+      ],
+      [
+        "B",
+        "Do not overtake"
+      ],
+      [
+        "C",
+        "Give way to oncoming traffic"
+      ],
+      [
+        "D",
+        "Form two lanes"
+      ]
+    ]
+  },
+  {
+    "number": 61,
+    "stem": "It is very windy. You are behind a motorcyclist who is overtaking a high vehicle. What should you do?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image444.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Keep close to the motorcyclist"
+      ],
+      [
+        "B",
+        "Stay level with the motorcycle"
+      ],
+      [
+        "C",
+        "Overtake the motorcyclist immediately"
+      ],
+      [
+        "D",
+        "Keep well back"
+      ]
+    ]
+  },
+  {
+    "number": 62,
+    "stem": "You see a group of horse riders as you approach a roundabout. They are indicating right but keeping well to the left. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image445.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Keep close of them"
+      ],
+      [
+        "B",
+        "Cut in front of them"
+      ],
+      [
+        "C",
+        "Proceed as normal"
+      ],
+      [
+        "D",
+        "Stay well back"
+      ]
+    ]
+  },
+  {
+    "number": 63,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image460.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "No motor vehicles"
+      ],
+      [
+        "B",
+        "Clearway (no stopping)"
+      ],
+      [
+        "C",
+        "No overtaking"
+      ],
+      [
+        "D",
+        "Cars and motorcycles only"
+      ]
+    ]
+  },
+  {
+    "number": 64,
+    "stem": "You enter a road where there are road humps. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image475.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Accelerate quickly between each one"
+      ],
+      [
+        "B",
+        "Maintain a reduced speed throughout"
+      ],
+      [
+        "C",
+        "Drive slowly at school times only"
+      ],
+      [
+        "D",
+        "Always keep to the maximum legal speed"
+      ]
+    ]
+  },
+  {
+    "number": 65,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image482.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "School crossing patrol"
+      ],
+      [
+        "B",
+        "National speed limit"
+      ],
+      [
+        "C",
+        "Waiting restrictions"
+      ],
+      [
+        "D",
+        "No entry"
+      ]
+    ]
+  },
+  {
+    "number": 66,
+    "stem": "What does this traffic sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image487.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Give priority to oncoming traffic"
+      ],
+      [
+        "B",
+        "No overtaking allowed"
+      ],
+      [
+        "C",
+        "Two way traffic"
+      ],
+      [
+        "D",
+        "One-way traffic only"
+      ]
+    ]
+  },
+  {
+    "number": 67,
+    "stem": "What does a sign with a brown background show?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image505.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Tourist directions"
+      ],
+      [
+        "B",
+        "Primary roads"
+      ],
+      [
+        "C",
+        "Minor routes"
+      ],
+      [
+        "D",
+        "Motorway routes"
+      ]
+    ]
+  },
+  {
+    "number": 68,
+    "stem": "You see this traffic light ahead. Which light(s) will come on next?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image513.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Red and amber together"
+      ],
+      [
+        "B",
+        "Green alone"
+      ],
+      [
+        "C",
+        "Red alone"
+      ],
+      [
+        "D",
+        "Green and amber together"
+      ]
+    ]
+  },
+  {
+    "number": 69,
+    "stem": "You are driving on a multi-lane carriageway. By mistake, you go past the exit that you wanted to take. You should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image526.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Carefully reverse on the hard shoulder"
+      ],
+      [
+        "B",
+        "Carefully reverse in the left-hand lane"
+      ],
+      [
+        "C",
+        "Make a U-turn at the next gap in the central reservation"
+      ],
+      [
+        "D",
+        "Carry on to the next exit"
+      ]
+    ]
+  },
+  {
+    "number": 70,
+    "stem": "When you approach a bus that is about to move off from a bus stop you should:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image538.jpg",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Get past before it moves"
+      ],
+      [
+        "B",
+        "Signal left and wave the bus on"
+      ],
+      [
+        "C",
+        "Allow it to pull away, if it is safe to do so"
+      ],
+      [
+        "D",
+        "Flash your headlights as you approach"
+      ]
+    ]
+  },
+  {
+    "number": 71,
+    "stem": "What does the sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image544.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Pedestrian crossing ahead"
+      ],
+      [
+        "B",
+        "School crossing patrol"
+      ],
+      [
+        "C",
+        "Pedestrian zone \u2013 no vehicles"
+      ],
+      [
+        "D",
+        "No pedestrians allowed"
+      ]
+    ]
+  },
+  {
+    "number": 72,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image551.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Cars and motorcycles only"
+      ],
+      [
+        "B",
+        "No motor vehicles"
+      ],
+      [
+        "C",
+        "Clearway (no stopping)"
+      ],
+      [
+        "D",
+        "No overtaking"
+      ]
+    ]
+  },
+  {
+    "number": 73,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image557.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Traffic queues likely"
+      ],
+      [
+        "B",
+        "Light signals ahead at a level crossing"
+      ],
+      [
+        "C",
+        "Accident black spot ahead"
+      ],
+      [
+        "D",
+        "Pedestrian crossing ahead"
+      ]
+    ]
+  },
+  {
+    "number": 74,
+    "stem": "This marking appears on the road just before a",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image567.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Stop sign"
+      ],
+      [
+        "B",
+        "No through road sign"
+      ],
+      [
+        "C",
+        "No entry sign"
+      ],
+      [
+        "D",
+        "Give way sign"
+      ]
+    ]
+  },
+  {
+    "number": 75,
+    "stem": "What MUST you do when you see this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image568.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Stop, ONLY if children are waiting to cross"
+      ],
+      [
+        "B",
+        "Stop, even if the road is clear"
+      ],
+      [
+        "C",
+        "Stop, ONLY if traffic is approaching"
+      ],
+      [
+        "D",
+        "Stop, ONLY if a red light is showing"
+      ]
+    ]
+  },
+  {
+    "number": 76,
+    "stem": "You may only enter a box junction when:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image572.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "The traffic lights show green"
+      ],
+      [
+        "B",
+        "You need to turn left"
+      ],
+      [
+        "C",
+        "There are less than two vehicles in front of you"
+      ],
+      [
+        "D",
+        "Your exit road is clear"
+      ]
+    ]
+  },
+  {
+    "number": 77,
+    "stem": "A red traffic light means:",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image581.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "You must slow down and prepare to stop if traffic has started to cross"
+      ],
+      [
+        "B",
+        "You must stop behind the white stop line"
+      ],
+      [
+        "C",
+        "You may drive straight on if there is no other traffic"
+      ],
+      [
+        "D",
+        "You may turn left if it is safe to do so"
+      ]
+    ]
+  },
+  {
+    "number": 78,
+    "stem": "When must you stop at this junction?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image604.jpg",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Only when the area is busy"
+      ],
+      [
+        "B",
+        "At all times"
+      ],
+      [
+        "C",
+        "When turning right only"
+      ],
+      [
+        "D",
+        "During rush hours only"
+      ]
+    ]
+  },
+  {
+    "number": 79,
+    "stem": "You are approaching this roundabout and see the cyclist signal right. Why is the cyclist keeping to the left?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image609.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "The cyclist is going to turn left instead"
+      ],
+      [
+        "B",
+        "The cyclist thinks The highway Code does not apply to bicycles"
+      ],
+      [
+        "C",
+        "It is quicker route for cyclist"
+      ],
+      [
+        "D",
+        "The cyclist is slower and more vulnerable"
+      ]
+    ]
+  },
+  {
+    "number": 80,
+    "stem": "The driver of this car is giving an arm signal. What is he about to do?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image618.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Go straight ahead"
+      ],
+      [
+        "B",
+        "Let pedestrians cross"
+      ],
+      [
+        "C",
+        "Turn to the right"
+      ],
+      [
+        "D",
+        "Turn to the left"
+      ]
+    ]
+  },
+  {
+    "number": 81,
+    "stem": "What is the meaning of this sign?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image624.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Uneven road surface"
+      ],
+      [
+        "B",
+        "Humpback bridge"
+      ],
+      [
+        "C",
+        "Humps on the road"
+      ],
+      [
+        "D",
+        "Risk of grounding"
+      ]
+    ]
+  },
+  {
+    "number": 82,
+    "stem": "You are at a junction controlled by traffic lights. When should you NOT proceed at green?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image642.jpg",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "When pedestrians are waiting to cross"
+      ],
+      [
+        "B",
+        "When you think the lights may be about to change"
+      ],
+      [
+        "C",
+        "When you intend to turn right"
+      ],
+      [
+        "D",
+        "When your exit from the junction is blocked"
+      ]
+    ]
+  },
+  {
+    "number": 83,
+    "stem": "When approaching a right-hand bend you should keep well to the left. Why this?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\image645.jpg",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "To improve your view of the road"
+      ],
+      [
+        "B",
+        "To let faster traffic from behind overtake"
+      ],
+      [
+        "C",
+        "To overcome the effect of the road\u2019s slope"
+      ],
+      [
+        "D",
+        "To be positioned safely if the vehicle skids"
+      ]
+    ]
+  },
+  {
+    "number": 84,
+    "stem": "What should the driver of the car approaching the crossing do?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_11.png",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Continue at the same speed"
+      ],
+      [
+        "B",
+        "Sound the horn"
+      ],
+      [
+        "C",
+        "Drive through quickly"
+      ],
+      [
+        "D",
+        "Slow down and get ready to stop"
+      ]
+    ]
+  },
+  {
+    "number": 85,
+    "stem": "What should you do as you approach this overhead bridge?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_12.png",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Move out to the centre of the road before going through"
+      ],
+      [
+        "B",
+        "Find another route, this is only for high vehicles"
+      ],
+      [
+        "C",
+        "Be prepared to give way to large vehicles in the middle of the road"
+      ],
+      [
+        "D",
+        "Move across to the right hand side before going through"
+      ]
+    ]
+  },
+  {
+    "number": 86,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_22.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Level crossing with gate or barrier"
+      ],
+      [
+        "B",
+        "Gated road ahead"
+      ],
+      [
+        "C",
+        "Level crossing without gate or barrier"
+      ],
+      [
+        "D",
+        "Cattle grid ahead"
+      ]
+    ]
+  },
+  {
+    "number": 87,
+    "stem": "At traffic lights, amber on its own means",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_23.png",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "prepare to go"
+      ],
+      [
+        "B",
+        "go if the way is clear"
+      ],
+      [
+        "C",
+        "go if no pedestrians are crossing"
+      ],
+      [
+        "D",
+        "stop at the stop line"
+      ]
+    ]
+  },
+  {
+    "number": 88,
+    "stem": "What does this motorway sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_24.png",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Temporary minimum speed 50 mph"
+      ],
+      [
+        "B",
+        "No service for, 50 miles"
+      ],
+      [
+        "C",
+        "Obstruction 50 metres ( 164 feet) ahead"
+      ],
+      [
+        "D",
+        "Temporary maximum speed 50 mph"
+      ]
+    ]
+  },
+  {
+    "number": 89,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_26.png",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "End of motorway"
+      ],
+      [
+        "B",
+        "End of restriction"
+      ],
+      [
+        "C",
+        "Lane ends ahead"
+      ],
+      [
+        "D",
+        "Free recovery ends"
+      ]
+    ]
+  },
+  {
+    "number": 90,
+    "stem": "This sign is advising you to",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_27.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "follow the route diversion"
+      ],
+      [
+        "B",
+        "follow the signs to the picnic area"
+      ],
+      [
+        "C",
+        "give way to pedestrians"
+      ],
+      [
+        "D",
+        "give way to cyclists"
+      ]
+    ]
+  },
+  {
+    "number": 91,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_28.png",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "Motorcycles only"
+      ],
+      [
+        "B",
+        "No cars"
+      ],
+      [
+        "C",
+        "Cars only"
+      ],
+      [
+        "D",
+        "No motorcycles"
+      ]
+    ]
+  },
+  {
+    "number": 92,
+    "stem": "You may wait in a yellow box junction when",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_32.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "oncoming traffic is preventing you from turning right"
+      ],
+      [
+        "B",
+        "you are in a queue of traffic turning left"
+      ],
+      [
+        "C",
+        "you are in a queue of traffic to go ahead"
+      ],
+      [
+        "D",
+        "you are on a roundabout"
+      ]
+    ]
+  },
+  {
+    "number": 93,
+    "stem": "When can you park on the left opposite these road markings?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_33.png",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "If the line nearest to you is broken"
+      ],
+      [
+        "B",
+        "When there are no yellow lines"
+      ],
+      [
+        "C",
+        "To pick up or set down passengers"
+      ],
+      [
+        "D",
+        "During daylight hours only"
+      ]
+    ]
+  },
+  {
+    "number": 94,
+    "stem": "You enter a road where there are road humps. What should you do?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_42.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Maintain a reduced speed throughout"
+      ],
+      [
+        "B",
+        "Accelerate quickly between each one"
+      ],
+      [
+        "C",
+        "Always keep to the maximum legal speed"
+      ],
+      [
+        "D",
+        "Drive slowly at school times only"
+      ]
+    ]
+  },
+  {
+    "number": 95,
+    "stem": "When approaching a right-hand bend you should keep well to the left. Why is this?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_45.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "To improve your view of the road"
+      ],
+      [
+        "B",
+        "To overcome the effect of the road's slope"
+      ],
+      [
+        "C",
+        "To let faster traffic from behind overtake"
+      ],
+      [
+        "D",
+        "To be positioned safely if you skid"
+      ]
+    ]
+  },
+  {
+    "number": 96,
+    "stem": "You may drive with front fog lights switched on",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_48.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "when visibility is less than 100 metres (328 feet)"
+      ],
+      [
+        "B",
+        "at any time to be noticed"
+      ],
+      [
+        "C",
+        "instead of headlights on high speed roads"
+      ],
+      [
+        "D",
+        "when dazzled by the lights of oncoming vehicles"
+      ]
+    ]
+  },
+  {
+    "number": 97,
+    "stem": "You are driving along this road. What should you be prepared to do?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_51.png",
+    "answer": "B",
+    "options": [
+      [
+        "A",
+        "Sound your horn and continue"
+      ],
+      [
+        "B",
+        "Slow down and give way"
+      ],
+      [
+        "C",
+        "Report the driver to the police"
+      ],
+      [
+        "D",
+        "Squeeze through the gap"
+      ]
+    ]
+  },
+  {
+    "number": 98,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_52.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Maximum speed limit with traffic calming"
+      ],
+      [
+        "B",
+        "Minimum speed limit with traffic calming"
+      ],
+      [
+        "C",
+        "20 cars only 'parking zone"
+      ],
+      [
+        "D",
+        "Only 20 cars allowed at any one time"
+      ]
+    ]
+  },
+  {
+    "number": 99,
+    "stem": "You have broken down on a two-way road. You have a warning triangle. It should be displayed",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_56.png",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "on the roof of your vehicle"
+      ],
+      [
+        "B",
+        "at least 150 metres (492 feet) behind your vehicle"
+      ],
+      [
+        "C",
+        "at least 45 metres (147 feet) behind your vehicle"
+      ],
+      [
+        "D",
+        "just behind your vehicle"
+      ]
+    ]
+  },
+  {
+    "number": 100,
+    "stem": "Which road user has caused a hazard?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_65.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "The parked car (arrowed A)"
+      ],
+      [
+        "B",
+        "The pedestrian waiting to cross (arrowed B)"
+      ],
+      [
+        "C",
+        "The moving car (arrowed C)"
+      ],
+      [
+        "D",
+        "The car turning (arrowed D)"
+      ]
+    ]
+  },
+  {
+    "number": 101,
+    "stem": "What should you use the hard shoulder of a motorway for?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_70.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Stopping in an emergency"
+      ],
+      [
+        "B",
+        "Leaving the motorway"
+      ],
+      [
+        "C",
+        "Stopping when you are tired"
+      ],
+      [
+        "D",
+        "Joining the motorway"
+      ]
+    ]
+  },
+  {
+    "number": 102,
+    "stem": "You are travelling on a motorway. A red cross is shown above the hard shoulder. What does this mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_71.png",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Use this lane as a rest area"
+      ],
+      [
+        "B",
+        "Use this as a normal running lane"
+      ],
+      [
+        "C",
+        "Do not use this lane to travel in"
+      ],
+      [
+        "D",
+        "National speed limit applies in this lane"
+      ]
+    ]
+  },
+  {
+    "number": 103,
+    "stem": "On a motorway you may only stop on the hard shoulder",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_72.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "in an emergency"
+      ],
+      [
+        "B",
+        "if you feel tired and need to rest"
+      ],
+      [
+        "C",
+        "if you miss the exit that you wanted"
+      ],
+      [
+        "D",
+        "to pick up a hitchhiker"
+      ]
+    ]
+  },
+  {
+    "number": 104,
+    "stem": "What are triangular signs for?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_73.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "To give warnings"
+      ],
+      [
+        "B",
+        "To give information"
+      ],
+      [
+        "C",
+        "To give orders"
+      ],
+      [
+        "D",
+        "To give directions"
+      ]
+    ]
+  },
+  {
+    "number": 105,
+    "stem": "At traffic lights, amber on its own means",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_74.png",
+    "answer": "D",
+    "options": [
+      [
+        "A",
+        "prepare to go"
+      ],
+      [
+        "B",
+        "go if the way is clear"
+      ],
+      [
+        "C",
+        "go if no pedestrians are crossing"
+      ],
+      [
+        "D",
+        "stop at the stop line"
+      ]
+    ]
+  },
+  {
+    "number": 106,
+    "stem": "What does this sign mean?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_76.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Quayside or river bank"
+      ],
+      [
+        "B",
+        "Steep hill downwards"
+      ],
+      [
+        "C",
+        "Uneven road surface"
+      ],
+      [
+        "D",
+        "Road liable to flooding"
+      ]
+    ]
+  },
+  {
+    "number": 107,
+    "stem": "You are driving over a level crossing. The warning lights come on and a bell rings. What should you do?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_83.png",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "Get everyone out of the vehicle immediately"
+      ],
+      [
+        "B",
+        "Stop and reverse back to clear the crossing"
+      ],
+      [
+        "C",
+        "Keep going and clear the crossing"
+      ],
+      [
+        "D",
+        "Stop immediately and use your hazard warning lights"
+      ]
+    ]
+  },
+  {
+    "number": 108,
+    "stem": "When may you drive a motor car in this bus lane?",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_85.png",
+    "answer": "A",
+    "options": [
+      [
+        "A",
+        "Outside its hours of operation"
+      ],
+      [
+        "B",
+        "To get to the front of a traffic queue"
+      ],
+      [
+        "C",
+        "You may not use it at any time"
+      ],
+      [
+        "D",
+        "To overtake slow-moving traffic"
+      ]
+    ]
+  },
+  {
+    "number": 109,
+    "stem": "Yellow zigzag lines on the road outside schools mean",
+    "figure": "Y",
+    "figureaddress": "F:\\Multiple choice\\imageset\\new_test_100.png",
+    "answer": "C",
+    "options": [
+      [
+        "A",
+        "sound your horn to alert other road users"
+      ],
+      [
+        "B",
+        "stop to allow children to cross"
+      ],
+      [
+        "C",
+        "you should not park or stop on these lines"
+      ],
+      [
+        "D",
+        "you must not drive over these lines"
+      ]
+    ]
+  }
+]
